@@ -1,0 +1,12 @@
+{
+  "name": "direct",
+  "version": "1.0.0",
+  "description": "##Description this project demonstates the use of .gitignore and README.md files in git with javascript.",
+  "main": "using.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
